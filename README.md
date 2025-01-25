@@ -8,6 +8,7 @@
 
 This is a simple swift playground for Spring 2025 CPSC 5330 Assignment #2
 This program contains a function to calculate the payment a loan.
+The function returns an unformatted Double.
 Also contains an excel sheet used to verfiy results.
 
 ## Finished App
