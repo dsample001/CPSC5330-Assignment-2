@@ -12,4 +12,4 @@ Also contains an excel sheet used to verfiy results.
 
 ## Finished App
 
-<img src="https://github.com/dsample001/CPSC5330-Assignment-2/blob/main/Docs/Assignment 2 screenshot.png?raw=true" width="400">
+<img src="https://github.com/dsample001/CPSC5330-Assignment-2/blob/main/Docs/Assignment 2 screenshot.png?raw=true" width="600">
